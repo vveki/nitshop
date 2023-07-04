@@ -34,7 +34,9 @@ import CartContextProvider from "./context/CartContext";
 import UserContextProvider from "./context/UserContext";
 import LoginScreen from "./Screens/LoginScreen/LoginScreen";
 import CheckoutScreen from "./Screens/CheckoutScreen/CheckoutScreen";
-import CategoryScreen from "./Screens/CategoryScreen/CategoryScreen";
+import CategoryScreen from "./Screens/CategoryScreen/CategoryScreen"; 
+
+
 const App = () => {
   const router = createBrowserRouter([
     {
