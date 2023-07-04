@@ -1,0 +1,18 @@
+.search-input {
+  display: flex;
+  position: relative;
+  align-items: center;
+}
+
+.inputSearch {
+  background-color: #d3cfcf;
+  border: none;
+  height: 30px;
+  padding-left: 5px;
+}
+.searchIcon {
+  position: absolute;
+  right: 0;
+  padding-right: 5px;
+  color: gray;
+}
